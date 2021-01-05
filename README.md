@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm po3rin 👋
+I'm Site Reliablity Engineer in Japan.
 
-<!--
-**fukubaka0825/fukubaka0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 Interest
 
-Here are some ideas to get you started:
+* SRE/Devops
+* Go 
+* Container
+* AWS/GCP/Terraform
+* DDD
+* Unity(3D Modeling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✈️ Get in touch
+
+* Twitter: https://twitter.com/fukubaka0825
+* Site: https://www.fukubaka0825.dev/
+
+
+[![](https://raw.githubusercontent.com/fukubaka0825/fukubaka0825/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/fukubaka0825/fukubaka0825/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/fukubaka0825/fukubaka0825/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
