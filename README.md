@@ -14,6 +14,7 @@ I'm Site Reliablity Engineer in Japan.
 
 * Twitter: https://twitter.com/fukubaka0825
 * Site: https://www.fukubaka0825.dev/
+* Youtube: https://www.youtube.com/channel/UC81PeviLpHz0oH6GhaqxIpQ :hamburger: :hamburger:
 
 
 [![](https://raw.githubusercontent.com/fukubaka0825/fukubaka0825/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
