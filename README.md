@@ -5,7 +5,7 @@ I'm Site Reliablity Engineer in Japan.
 
 * SRE/Devops
 * Go 
-* Container
+* Container(Docker/Kubenetes)
 * Cloud Infrastructure Design(AWS/GCP/Terraform)
 * Application Design (OOP/DDD)
 * Unity(3D Modeling)
