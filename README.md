@@ -6,8 +6,8 @@ I'm Site Reliablity Engineer in Japan.
 * SRE/Devops
 * Go 
 * Container
-* AWS/GCP/Terraform
-* DDD
+* Cloud Infrastructure Design(AWS/GCP/Terraform)
+* Application Design (OOP/DDD)
 * Unity(3D Modeling)
 
 ### ✈️ Get in touch
