@@ -4,8 +4,9 @@ I'm Site Reliablity Engineer in Japan.
 ### 🔍 Interest
 
 * SRE/Devops
-* Go 
-* Container(Docker/Kubenetes)
+* MLOps/Data Engineering
+* Go/Python/Shell Script
+* Container(Docker/Kubenetes/AWS ECS)
 * Cloud Infrastructure Design(AWS/GCP/Terraform)
 * Policy as Code(OPA/Rego/Conftest/Gatekeeper)
 * Application Design (OOP/DDD)
