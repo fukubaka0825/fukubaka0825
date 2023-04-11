@@ -5,6 +5,7 @@ I'm SWE(MLOps/SRE) in Japan.
 
 * SRE/Devops
 * MLOps/Data Engineering
+* NLP
 * Go/Python/Shell Script
 * Container(Docker/Kubenetes/AWS ECS)
 * Cloud Infrastructure Design(AWS/GCP/Terraform)
