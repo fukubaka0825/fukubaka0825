@@ -1,5 +1,5 @@
 ### Hi there, I'm fukubaka0825 a.k.a nari 👋
-I'm Site Reliablity Engineer in Japan.
+I'm SWE(MLOps/SRE) in Japan.
 
 ### 🔍 Interest
 
