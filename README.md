@@ -3,8 +3,8 @@ I'm SWE(MLOps/SRE) in Japan.
 
 ### 🔍 Interest
 
-* SRE/Devops
-* MLOps/Data Engineering
+* SRE/Devops/AIOps
+* MLOps/LLMOps/Data Engineering
 * NLP
 * Go/Python/Shell Script
 * Container(Docker/Kubenetes/AWS ECS)
